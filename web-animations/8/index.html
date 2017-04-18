@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>LangSwitch</title>
+
+        <link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" href="css/reset.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+    </head>
+    
+    <body>
+        <button id="cycle">CYCLE LANGS</button>
+        
+        <div id="container">
+            <span class = "langs">
+                <a class = "texZH bold" href = "?lang=zh">中文</a>
+                <a class = "texDE" href = "?lang=de">DE</a>
+                <a class = "texEN" href = "?lang=en">EN</a>
+                <span class = "sel"></span>
+            </span>
+        </div>
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="script.js" type="text/javascript"></script>
+    </body>
+</html>
