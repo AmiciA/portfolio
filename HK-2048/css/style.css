@@ -95,6 +95,10 @@ canvas {
     font-size: 15px;
 }
 
+#modaltext p {
+    margin-right: 15px;
+}
+
 #linkholder {
     margin-top: 20px;
 }
