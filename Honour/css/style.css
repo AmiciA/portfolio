@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f8f8;
+}
+
+h1 {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+
+.boxxxy {
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: auto 10px;
+    
+}
+
+.art {
+    border: 20px groove #e8e8e8;
+    padding-bottom: -50px;
+    line-height: 0;
+}
+
+#it-2 {
+    display: none;
+}
+
+#hk-2 {
+    display: none;
+}
+
+.button .button-primary {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
