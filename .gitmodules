@@ -1,0 +1,3 @@
+[submodule "acejam"]
+	path = acejam
+	url = https://github.com/AmiciA/acejam.git
