@@ -1,7 +1,7 @@
 # portfolio
 Collection of projects:
 
-<a href="https://amicia.github.io/portfolio/cantogen/">NEW👉 Cantonese Name Generator</a>
+NEW👉 <a href="https://amicia.github.io/portfolio/cantogen/">Cantonese Name Generator</a>
 <br><br>
 <a href="https://amicia.github.io/portfolio/character-generator/">Character Generator</a>
 <br><br>
